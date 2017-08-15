@@ -7,6 +7,7 @@ How to use ?
 download /colors/*.vim file to your computer
 move colors file to path: ~/.vim/colors/*.vim
 modify ~/.vimrc like this:
+
   syntax enable
   syntax on
   " display number
@@ -24,5 +25,5 @@ modify ~/.vimrc like this:
   " set background theme
   set background=light
   " the name of your theme file in `~/.vim/colors/`, do not contain suffix
-  colorscheme Lan
+  colorscheme Kelly
 enjoy it
