@@ -4,9 +4,9 @@ create by KELLY base on molokai date: 2017-05-29
 
 How to use ?
 
-download /colors/*.vim file to your computer
-move colors file to path: ~/.vim/colors/*.vim
-modify ~/.vimrc like this:
+download /colors/*.vim file to your computer</br>
+move colors file to path: ~/.vim/colors/*.vim</br>
+modify ~/.vimrc like this:</br>
 
   syntax enable
   syntax on
